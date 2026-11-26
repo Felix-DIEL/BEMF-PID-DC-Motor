@@ -178,3 +178,12 @@ pio run -t upload
 # Open Serial Monitor at 115200 baud
 pio device monitor
 ```
+
+---
+
+## Legal Disclaimer & License
+
+**Copyright (c) 2026 Digital Elektronik GmbH. All rights reserved.**
+
+This code and all associated files in this repository are the proprietary property of **Digital Elektronik GmbH**. Any unauthorized use, reproduction, modification, or distribution is strictly forbidden without prior written permission. See [LICENSE](LICENSE) for full terms.
+
